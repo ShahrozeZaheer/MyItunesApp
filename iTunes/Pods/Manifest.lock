@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.2.2)
+  - IQKeyboardManagerSwift (6.5.5)
+  - Kingfisher (5.14.1):
+    - Kingfisher/Core (= 5.14.1)
+  - Kingfisher/Core (5.14.1)
+  - ObjectMapper (4.2.0)
+  - SVProgressHUD (2.2.5)
+  - TagListView (1.4.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - ObjectMapper
+  - SVProgressHUD
+  - TagListView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - ObjectMapper
+    - SVProgressHUD
+    - TagListView
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  Kingfisher: 8050bc6f7f68cbf3908bd04df7ccbac188f6d6d6
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  TagListView: 987b0bdbb16cd9d9e7c0e2ec32aff37ecba8b173
+
+PODFILE CHECKSUM: cdac5dfe9ce1bf9583a19ca29d9691ff4de3e0f8
+
+COCOAPODS: 1.9.3
